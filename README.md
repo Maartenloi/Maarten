@@ -7,3 +7,5 @@ Nu gaan we los kijken of we kunnen committen
 
 Ik heb het idee dat ik wel commit maar dat het bastend niet wordt aangepast op de remote. 
 poging 2
+
+poging 3
